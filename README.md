@@ -52,4 +52,4 @@ Coding a Web App like IMDB using TMDB API (The Movie DataBase). User creation, l
 
 <p>6 people| 2 weeks | SCRUM methodology</p>
 
-Coding an E-Commerce from zero. It was my first developer project sharing with other people, using scrum methodoly helped to organize the tasks, backlogs and sprints. I took part on the backend and frontend, also about the role I played on the team was organization/manager to coordinate and comunicate front and back, code a mates.
+Coding an E-Commerce from zero. It was my first developer project sharing with other people, using scrum methodoly helped to organize the tasks, backlogs and sprints. I took part on the backend and frontend, also about the role I played on the team was organization/manager to coordinate and comunicate front and back, code and mates.
