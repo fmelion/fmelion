@@ -28,10 +28,10 @@ Leaving my confort zone I took a Coding Bootcamp of more than 700 hours in 4 mon
 </div>
 
 
-<h2 align="center"> Learning, this is the way   :rocket: </h2>
+<h2 align="center"> Learning, this is the way... </h2>
 
 
-## Projects
+<h2 align="center"> Projects   :rocket: </h2>
 
 ###  :adhesive_bandage: Administrator Dashboard || 2022
 
